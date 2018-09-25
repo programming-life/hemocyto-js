@@ -1,0 +1,9 @@
+{
+  "name": "hemocyto",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/programming-life/hemocyto",
+  "author": "Derk-Jan Karrenbeld <derk-jan+github@karrenbeld.info>",
+  "license": "MIT",
+  "private": false
+}
